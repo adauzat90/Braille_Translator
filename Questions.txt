@@ -1,0 +1,15 @@
+(123/15/2345/2345/12456/2) -> (123/2345/12456/2) letter,
+In your translation you are missing an e and a t. Why? I can't seem to find a rule that allows for this
+
+Bethel
+Yours: (6/12/15/2346/123) 	Mine After Fixing: (6/23/2346/123)
+Mine seems to of found a more efficient way to do this by combining B and e to be is this ok?
+
+really
+Yours: (1235/2/13456) Mine: (1235/15/6/13456)
+You don't put the ll in your translation. My program finds the contraction ally and then goes off of that. Why don't you put the ll?
+
+name
+Yours: (2346)  Mine: (5/1345)
+Why do you use the contraction for (the) for name?
+
